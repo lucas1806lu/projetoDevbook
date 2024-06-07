@@ -1,0 +1,19 @@
+# github.com/badoux/checkmail v0.0.0-20200623144435-f9f80cb795fa
+## explicit; go 1.14
+github.com/badoux/checkmail
+# github.com/dgrijalva/jwt-go v3.2.0+incompatible
+## explicit
+github.com/dgrijalva/jwt-go
+# github.com/go-sql-driver/mysql v1.7.1
+## explicit; go 1.13
+github.com/go-sql-driver/mysql
+# github.com/gorilla/mux v1.8.1
+## explicit; go 1.20
+github.com/gorilla/mux
+# github.com/joho/godotenv v1.3.0
+## explicit
+github.com/joho/godotenv
+# golang.org/x/crypto v0.0.0-20200709230013-948cd5f35899
+## explicit; go 1.11
+golang.org/x/crypto/bcrypt
+golang.org/x/crypto/blowfish
